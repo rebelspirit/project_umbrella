@@ -1,0 +1,32 @@
+﻿div.content {
+	font-size: 18px;
+	border: dashed;
+	border-width: 3px;
+	width: 480px;
+	padding: 7px;
+}
+p {
+	margin-top: -5px;
+}
+.italic_index {
+	font-style: italic;
+}
+div.content_second {
+	font-size: 18px;
+	border: dashed;
+	border-width: 3px;
+	width: 480px;
+	padding: 7px;
+	margin-top: 20px;
+}
+.math {
+	font-style: italic;
+}
+.blue_numbers {
+	color: blue;
+	font-style: normal;
+}
+.red_numbers {
+	color: red;
+	font-style: normal;
+}

@@ -1,0 +1,58 @@
+﻿body .paragraph_blue{
+	background: blue;
+	width: 350px;
+}
+hr{
+	width: 390px;
+	margin-left: 1px;
+}
+h2 {
+	background-color: red;
+	width: 100px;
+	color: white;
+}
+.paragraph_yellow {
+	background-color: yellow;
+	width: 350px;
+	height: 50px;
+}
+.paragraph_blue {
+	height: 40px;
+}
+.wrapper {
+	background-color: white;
+
+}
+.elements {
+	background-color: white;
+	padding: 5px;
+	width: 200px;
+}
+.one {
+	width: 60px;
+	height: 50px;
+	background-color: red;
+}
+.two {
+	width: 120px;
+	height: 50px;
+	background-color: orange;
+}
+.three {
+	width: 175px;
+	height: 50px;
+	background-color: blue;
+}
+.joy_of_tex {
+	margin-top: 15px;
+	height: 2cm;
+	width: 6cm;
+	background-color: orange;
+}
+.joy_of_tex p {
+	font-size: 35px;
+ 	text-align: center;
+}
+.joy_text {
+	padding-top: 15px;
+}
